@@ -6,10 +6,10 @@ Este é um projeto que visa criar uma simulação interativa de um instrumento m
 | -------------  | --- |
 | :sparkles: Nome        | **Simulador de Bateria**
 | :label: Tecnologias | HTML, CSS e JavaScript
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/javascripParaWeb/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/imagens/screenshot.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/javascripParaWeb/main/images/Captura%20de%20tela%202023-06-03%20151853.png#vitrinedev)
 
 ## Detalhes do projeto
 
